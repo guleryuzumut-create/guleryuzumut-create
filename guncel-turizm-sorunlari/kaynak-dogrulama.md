@@ -146,3 +146,25 @@ Durum: ✅ doğrulandı · ⚠️ kısmen doğrulandı, son teyit gerekli
 | NPR (2025) | npr.org | ✅ | 16.06.2025, Barselona ve Mallorca protestoları. |
 
 **Metinden çıkarılanlar:** Basında geçen tatil maliyeti karşılaştırmaları (Antalya ile Yunanistan ve Mısır) ve "Türkiye'nin Avrupa'nın en yüksek otel-restoran enflasyonuna sahip olduğu" iddiası, birincil kaynağı belirsiz olduğu için metne alınmadı.
+
+## 7. Bölüm
+
+| Kaynak | DOI / erişim | Durum | Not |
+|---|---|---|---|
+| Baum (2007) | 10.1016/j.tourman.2007.04.005 | ✅ | 28(6), 1383–1399. 2015'te "reprise" makalesi yayımlanmış. |
+| Baum, Kralj, Robinson ve Solnet (2016) | 10.1016/j.annals.2016.04.003 | ⚠️ | 60, 1–22 teyit edildi. Metinde aktarılan "bireysel, örgütsel, sektörel, toplumsal düzeyler" sınıflandırması özgün metinle karşılaştırılmalı. |
+| Erdoğan Mercan ve Eker (2025) | dergipark.org.tr | ⚠️ | 9(2), 15 çalışma, beş tema teyit edildi. Yayım yılı (2025) ve sayfa numaraları kontrol edilmeli. |
+| Günel (2009) | DEÜ İİBF Dergisi 10(2), 199–219 | ✅ | Bulguları metne aktarılmadı, yalnızca konusu belirtildi. |
+| Hochschild (1983) | Kitap | ✅ | University of California Press. |
+| ILO (2017) | ilo.org | ✅ | Cenevre, 20–24 Şubat 2017 uzmanlar toplantısı; oy birliği. ⚠️ Kutu 7.1'deki konu listesi rehberin içindekiler bölümüyle karşılaştırılmalı. |
+| Kuşluvan ve Kuşluvan (2000) | 10.1016/S0261-5177(99)00057-6 | ✅ | 21(3), 251–269; dokuz boyut; "ne olumlu ne olumsuz". |
+| Robinson vd. (2019) | 10.1080/09669582.2018.1538230 | ✅ | 27(7), 1008–1025; üç katmanlı güvencesizlik. |
+| Anadolu Ajansı (2026) | aa.com.tr | ✅ | Haziran 2026: 1.503.537 ücretli çalışan (TÜİK). |
+| SGK (t.y.) | sgk.gov.tr | ✅ | Konaklama ve yiyecek: %42,71 (2009) → %25,25 (2021). 2022 sonrası veri varsa güncellenmeli. |
+| Hürriyet (2025) | hurriyet.com.tr | ⚠️ | ~22 bin yabancı çalışan / ~100 bin ihtiyaç, sektör temsilcilerinin tahmini. Tarih eklenmeli. |
+| Turizm Güncel (t.y.) | turizmguncel.com | ✅ | 19 kodu ile askıya alma, 4 kodu ile fesih, 600 gün/120 gün koşulu. ⚠️ Hukuki ayrıntılar bir iş hukuku kaynağıyla (mevzuat ya da akademik) desteklenmeli. |
+| Turizm Aktüel (t.y.) | turizmaktuel.com | ⚠️ | Kış dönemi işsizlik modeli önerisi. Tarih eklenmeli. |
+
+**Metinden çıkarılanlar:** "Turizm eğitimi mezunlarının yalnızca üçte birinin sektörde kaldığı" iddiası, yalnızca bir otel birliği yöneticisinin açıklamasına dayandığı için metne alınmadı.
+
+**Vaka çalışması notu:** 7. bölümün vakası, metinde açıkça belirtildiği gibi kurgusal bir karakter üzerinden kurulmuştur.

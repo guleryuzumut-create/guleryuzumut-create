@@ -113,3 +113,22 @@
 **11. (Örnek cevap)** İthalat sızıntısı: bir otelin ithal içki ya da ekipman alması. Sahiplik sızıntısı: yabancı bir otel zincirinin Türkiye'deki otelinden elde ettiği kârı merkezine aktarması. Aracı sızıntısı: Avrupalı turistin ödediği paket tur bedelinin önemli bir kısmının kaynak ülkedeki tur operatöründe kalması. İşgücü sızıntısı da kabul edilebilir: başka bölgeden gelen sezonluk çalışanların kazançlarını kendi bölgelerine götürmesi (yerel ekonomi açısından).
 
 **12. (Örnek cevap)** (1) Oteller fiyatları aylar önceden döviz cinsinden sabitler. (2) Maliyetlerinin büyük kısmı TL cinsindendir. (3) Yüksek enflasyonla TL maliyetler hızla artar. (4) Döviz kuru enflasyon kadar artmazsa TL reel olarak değerlenir ve maliyetlerin döviz karşılığı yükselir. (5) Sabit döviz fiyatıyla kârlılık düşer. (6) Sonraki sezon döviz fiyatları artırılır ve Türkiye rakiplerine göre pahalılaşır. (7) Fiyat–değer algısı bozulur ve talep olumsuz etkilenir.
+
+## 7. Bölüm
+
+| Soru | Cevap | Açıklama |
+|---|---|---|
+| 1 | b | "Zamanda donmuş" sorunlar. |
+| 2 | c | Yaşamın güvencesizliği. |
+| 3 | d | 2017. |
+| 4 | b | Askıya alma fesih olmadığı için işsizlik ödeneği hakkı doğmaz. |
+| 5 | c | %25,25 (2021). |
+| 6 | b | Yüzeysel davranış. |
+| 7 | c | Uçuş görevlileri. |
+| 8 | c | Ne olumlu ne olumsuz. |
+| 9 | d | Güvenceli ve yüksek ücretli istihdam açığı azaltır. |
+| 10 | e | Kayıt dışılık hakları azaltır. |
+
+**11. (Örnek cevap)** Çalışanlar: gelir belirsizliği; sosyal güvencede kesinti ve emekliliğin gecikmesi; kariyer gelişiminin zorlaşması. İşletmeler: her sezon yeniden işe alma ve eğitim maliyeti; deneyimli personelin kaybı; hizmet kalitesinde dalgalanma.
+
+**12. (Örnek cevap)** (1) Rekabetçi ücret ve yan haklar: düşük ücret sorunu. (2) Öngörülebilir vardiya ve haftalık izin güvencesi: uzun ve düzensiz saatler. (3) Kaliteli lojman: sezonluk çalışanların yaşam koşulları. (4) Eğitim ve kariyer planı: terfi olanaklarının sınırlılığı ve mesleki itibar. (5) Sezon dışında iş ya da eğitim olanağı, yıl boyu açık kalma: mevsimlik istihdam ve güvencesizlik. Nitelikli ve denetlenen staj programları da kabul edilebilir: öğrencilerin sektörden soğuması.
