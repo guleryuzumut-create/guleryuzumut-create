@@ -94,3 +94,22 @@
 **11. (Örnek cevap)** Olumsuz: ritüellerin anlamını yitirmesi; kültürel ürünlerin standartlaşması ve seri üretim hediyelik eşyaya dönüşmesi. Olumlu: unutulan zanaatların canlanması; zanaatkârlara gelir sağlanması. Koşullar: topluluğun kültürünün nasıl sunulacağı üzerinde kontrol sahibi olması, gelirin topluluk içinde adil paylaşılması ve kutsal ya da mahrem kabul edilen öğelerin turizme açılıp açılmayacağına topluluğun karar vermesi.
 
 **12. (Örnek cevap)** Sahnelenmiş otantiklik, turistlerin "gerçek" yerel yaşam olarak gördüğü deneyimin aslında turistler için düzenlenmiş bir ön sahne olmasıdır (MacCannell, 1973). Örnek: tur programlarında yer alan, turist gruplarının belirli saatlerde ziyaret ettiği "geleneksel köy evinde gözleme ve ev yemeği" deneyimleri ya da otellerde düzenlenen "Türk gecesi" gösterileri.
+
+## 6. Bölüm
+
+| Soru | Cevap | Açıklama |
+|---|---|---|
+| 1 | c | Uyarılmış etki. |
+| 2 | b | Kurumsal nedenler. |
+| 3 | c | III. çeyrek (~24,26 milyar $). |
+| 4 | c | Ekonomik sızıntı. |
+| 5 | c | Yerel ve ulusal sahiplik ile yerel üretim arttıkça. |
+| 6 | d | Tüm gıdanın ithal edilmesi sızıntıyı artırır. |
+| 7 | b | Hollanda hastalığı. |
+| 8 | c | %30,89. |
+| 9 | b | Reel değerlenme, TL maliyetlerin döviz karşılığını artırır. |
+| 10 | b | Müşteri kaybı. |
+
+**11. (Örnek cevap)** İthalat sızıntısı: bir otelin ithal içki ya da ekipman alması. Sahiplik sızıntısı: yabancı bir otel zincirinin Türkiye'deki otelinden elde ettiği kârı merkezine aktarması. Aracı sızıntısı: Avrupalı turistin ödediği paket tur bedelinin önemli bir kısmının kaynak ülkedeki tur operatöründe kalması. İşgücü sızıntısı da kabul edilebilir: başka bölgeden gelen sezonluk çalışanların kazançlarını kendi bölgelerine götürmesi (yerel ekonomi açısından).
+
+**12. (Örnek cevap)** (1) Oteller fiyatları aylar önceden döviz cinsinden sabitler. (2) Maliyetlerinin büyük kısmı TL cinsindendir. (3) Yüksek enflasyonla TL maliyetler hızla artar. (4) Döviz kuru enflasyon kadar artmazsa TL reel olarak değerlenir ve maliyetlerin döviz karşılığı yükselir. (5) Sabit döviz fiyatıyla kârlılık düşer. (6) Sonraki sezon döviz fiyatları artırılır ve Türkiye rakiplerine göre pahalılaşır. (7) Fiyat–değer algısı bozulur ve talep olumsuz etkilenir.

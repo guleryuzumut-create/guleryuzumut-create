@@ -127,3 +127,22 @@ Durum: ✅ doğrulandı · ⚠️ kısmen doğrulandı, son teyit gerekli
 | Hürriyet Daily News (2023) | hurriyetdailynews.com | ✅ | Şirince, UNWTO En İyi Turizm Köyleri 2023 (260 başvurudan seçilen 54 köy). |
 | Şirince'nin adının değişmesi (1926) | — | ⚠️ | Yalnızca yerel gezi siteleri ve haberlerde geçiyor. Metinde "yerel anlatılara göre" ifadesiyle verildi, akademik bir kaynakla desteklenmeli. |
 | Safranbolu ziyaretçi sayıları | — | ⚠️ | Kaynaklar 2024 için toplam 2,6 milyon ile ~3 milyon, konaklayan için 236 bin ile 400 bin arasında farklı rakamlar veriyor. Bu yüzden metne sayı yazılmadı, "milyonlarca, büyük kısmı günübirlik" denildi. |
+
+## 6. Bölüm
+
+| Kaynak | DOI / erişim | Durum | Not |
+|---|---|---|---|
+| Archer (1982) | Tourism Management 3(4), 236–241 | ⚠️ | Künye teyit edildi. DOI bulunamadığı için yazılmadı (olası DOI: 10.1016/0261-5177(82)90044-9; kontrol edilmeli). |
+| Butler (2001) | Kitap bölümü | ✅ | Baum ve Lundtorp (Ed.), Pergamon. Sayfa aralığı kaynaklarda 5–21 ve 5–22 olarak geçiyor; 5–21 kullanıldı. |
+| Capó, Riera Font ve Rosselló Nadal (2007) | 10.2167/jost698.0 | ⚠️ | 15(6), 615–627 teyit edildi. Bulgular metinde genel düzeyde aktarıldı; özgün metinle karşılaştırılmalı. |
+| Lacher ve Nepal (2010) | 10.1080/14616680903493654 | ✅ | 12(1), 77–99. |
+| Terzioğlu ve Gökovalı (2016) | 10.1177/1354816616654244 | ✅ | 22(4), 715–728; Marmaris; sahiplik ve ithalat ana nedenler. |
+| Üner, Sökmen ve Güler (2007) | Anatolia 18(1), 53–63 | ✅ | 121 tesis, klasik ve ultra her şey dahil karşılaştırması. |
+| TÜİK çeyreklik turizm geliri 2025 | tuik.gov.tr | ✅ | I: 9,451; II: 16,284; III: 24,258; IV: 15,152 milyar $. II. çeyrek için bazı haberlerde 15,865 milyar $ geçiyor; TÜİK bülteninden kontrol edilmeli. |
+| TÜİK TÜFE | tuik.gov.tr | ✅ | Aralık 2024 %44,38; Aralık 2025 %30,89. ⚠️ Lokanta-otel yıllık artışı (~%34) yalnızca bir aracı kurum raporunda görüldü; metinde "%30'un üzerinde" denildi. |
+| Tourism Today (2025), TÜROFED | tourismtoday.net | ⚠️ | "Dövizle satıp TL ile maliyet" ifadesi teyit edildi. Haberin tarihi eklenmeli. |
+| Turizm Proje (2025) | turizmprojedergisi.com | ⚠️ | Sektör basını; tarih eklenmeli. |
+| Gazete Alanya (2025) | gazetealanya.com | ⚠️ | Oda başkanlarının açıklaması teyit edildi; haberin tarihi eklenmeli. |
+| NPR (2025) | npr.org | ✅ | 16.06.2025, Barselona ve Mallorca protestoları. |
+
+**Metinden çıkarılanlar:** Basında geçen tatil maliyeti karşılaştırmaları (Antalya ile Yunanistan ve Mısır) ve "Türkiye'nin Avrupa'nın en yüksek otel-restoran enflasyonuna sahip olduğu" iddiası, birincil kaynağı belirsiz olduğu için metne alınmadı.
