@@ -87,3 +87,22 @@ Durum: ✅ doğrulandı · ⚠️ kısmen doğrulandı, son teyit gerekli
 | Al Jazeera (2025), Akropolis | aljazeera.com | ✅ | 2023, 2024 ve 2025'te öğle saatlerinde kapatma. |
 
 **Metinden çıkarılanlar:** 2021'de Türkiye genelinde yanan toplam alan (~150 bin ha) ve Bodrum'da tahliye edilen kişi sayısı (~3.000–4.500) kaynaklar arasında tutarsız olduğu için metne alınmadı. Havacılığın turizm emisyonlarındaki payı için yaygın olarak alıntılanan %40 oranı da birincil kaynakta doğrulanamadığından metne alınmadı.
+
+## 4. Bölüm
+
+| Kaynak | DOI / erişim | Durum | Not |
+|---|---|---|---|
+| Çınar, Ardahanlıoğlu ve Toy (2024) | 10.3390/su16041480 | ✅ | 16(4), 1480. Fethiye–Göcek; 1995'ten bu yana yapılaşmış alanlarda +4.675 ha; LST ile pozitif ilişki. |
+| Gössling vd. (2012) | 10.1016/j.tourman.2011.03.015 | ✅ | 33(1), 1–15. Doğrudan kullanım 84–2.000 L/turist/gün. |
+| Hardin (1968) | 10.1126/science.162.3859.1243 | ✅ | 162(3859), 1243–1248. |
+| Şahin, Topkaya ve Civelekoğlu (2024) | 10.21923/jesd.1438629 | ✅ | 12(1), 217–229. 20 tesis, 103–1.209 L/geceleme. |
+| UNEP (2024), Food Waste Index | unep.org | ✅ | 1,05 milyar ton (2022 verisi); gıda hizmetleri 290 Mt (~%28). |
+| WWF (2019) | panda.org | ⚠️ | 0,57 Mt/yıl, 641 milyon €, turizmin en çok etkilenen sektör olması ve Türkiye'nin karadan kaynaklı sızıntıda ilk sırada olması teyit edildi. Yaz aylarındaki artış oranı kaynaklarda %30 ile "üçte bir" arasında değişiyor. Metinde "yaklaşık üçte bir" kullanıldı, rapordaki ifadeyle karşılaştırılmalı. |
+| Green Key (2025) | greenkey.global | ✅ | 1994 Danimarka, FEE, 90+ ülkede 9.000+ tesis. |
+| Kıyı Kanunu (1990) | ktb.gov.tr | ✅ | Kabul 04.04.1990; sahil şeridi en az 100 m; kıyıda yapı yasağı. RG sayısı eklenmeli. |
+| Kültür ve Turizm Bakanlığı (2025), Mavi Bayrak | basin.ktb.gov.tr | ✅ | 577 plaj, 29 marina, 18 tekne, 8 yat; dünya üçüncüsü; Antalya 233, Muğla 110, İzmir 64. |
+| PNA (2018), Boracay | pna.gov.ph | ✅ | 26.04.2018'den itibaren 6 ay kapanış. ⚠️ "Lağım çukuru" ifadesi (09.02.2018), 26.10.2018'deki açılış ve kapasite sınırı yalnızca ikincil kaynaklarda (Wikipedia, Inquirer) görüldü. Sınırın sayısı (~19 bin turist) bu yüzden metne alınmadı. |
+| T24, Salda | t24.com.tr | ⚠️ | Mart 2019'da ÖÇKB ilanı, kumların taşınması ve Bakanlığın soruşturma başlatması teyit edildi. Haberin yayım yılı (2020 olarak verildi) kontrol edilmeli. |
+| İztuzu (1987–1988) | — | ⚠️ | 1.800 yataklı otel projesi, Eylül 1987'de durdurulma ve 1988'de koruma kararı ikincil kaynaklardan (Wikipedia) teyit edildi. Metinde atıfsız duruyor. Birincil bir kaynak (ÖÇKB kararı, akademik çalışma ya da DEKAMER yayını) eklenmeli. |
+
+**Metinden çıkarılanlar:** Boracay'ın yeniden açılışında getirilen faaliyet yasaklarına (alkol, sigara, parti) ilişkin ayrıntılar doğrulanamadığı için metne alınmadı.

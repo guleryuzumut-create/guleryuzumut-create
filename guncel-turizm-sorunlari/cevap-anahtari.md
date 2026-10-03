@@ -56,3 +56,22 @@
 **11. (Örnek cevap)** (1) Havayolu biletlerine ya da yakıtına konan karbon vergileri seyahat maliyetini artırır. (2) Kaynak pazarlarda "uçuş utancı" gibi davranış değişiklikleri uzun mesafeli uçuş talebini azaltabilir. Türkiye için önemlidir, çünkü ziyaretçilerin büyük kısmı Avrupa'dan havayoluyla gelir ve Avrupa ülkelerinin iklim politikaları Türkiye'ye seyahatin maliyetini doğrudan etkiler.
 
 **12. (Örnek cevap)** Azaltım emisyonları düşürerek iklim değişikliğinin kendisini sınırlar; uyum ise değişikliğin kaçınılmaz etkilerine karşı kırılganlığı azaltır. Azaltım örnekleri: çatıya güneş paneli kurmak, yerel ve mevsimlik gıda tedarik etmek. Uyum örnekleri: yangın tahliye planı hazırlamak ve personeli eğitmek, havuz ve bahçelerde gölgelik ve serinleme alanları oluşturmak.
+
+## 4. Bölüm
+
+| Soru | Cevap | Açıklama |
+|---|---|---|
+| 1 | b | Dışsallık. |
+| 2 | c | Hardin (1968). |
+| 3 | b | Dolaylı kullanım doğrudan kullanımdan büyüktür ve en büyük kalemi gıdadır. |
+| 4 | d | Kış yağışları sorunu ağırlaştırmaz. |
+| 5 | b | Turizm. |
+| 6 | c | Yaklaşık %28 (290 milyon ton). |
+| 7 | c | En az 100 metre. |
+| 8 | b | *Caretta caretta*. |
+| 9 | e | Mavi Bayrak plajın arkasındaki karadaki yapılaşmayı değerlendirmez. |
+| 10 | b | Hava ve yüzey sıcaklığı. |
+
+**11. (Örnek cevap)** Doğrudan kullanım, tesiste musluktan, duştan ve sulamadan doğrudan tüketilen sudur: duş ve banyo, havuz ve bahçe sulaması. Dolaylı kullanım, tesisin kullandığı ürün ve hizmetlerin üretiminde harcanan sudur: restoranda sunulan yiyeceklerin yetiştirilmesi, tesisin kullandığı elektriğin üretilmesi.
+
+**12. (Örnek cevap)** Nedenler: misafirlerin ödediklerinin karşılığını almak için fazla yemek alması; büfelerin kapanışa kadar dolu tutulması; hijyen kuralları nedeniyle büfede bekleyen yemeğin yeniden kullanılamaması. Öneriler: küçük tabak kullanımı; yoğunluk verilerine göre üretim planlaması ve büfenin son saatlerde küçültülmesi; israfın ölçülmesi ve misafirlere yönelik bilgilendirme. Artan güvenli gıdanın bağışlanması da kabul edilebilir.
