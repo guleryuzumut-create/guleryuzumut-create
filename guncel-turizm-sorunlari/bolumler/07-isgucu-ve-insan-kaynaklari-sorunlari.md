@@ -45,7 +45,7 @@ Turizm, emek yoğun bir sektördür. Bir otelin, restoranın ya da tur şirketin
 | **Göçmen ve yabancı işgücü** | Turizm bölgelerinde çalışanların önemli bir kısmı başka bölgelerden ya da ülkelerden gelir. |
 | **Düşük giriş engeli** | Pek çok işe özel bir eğitim gerekmeden girilebilir. Bu, sektörün mesleki itibarını olumsuz etkileyebilir. |
 
-Tom Baum (2007), turizmde insan kaynaklarına ilişkin yirmi yıllık literatürü değerlendirdiği çalışmasında, işgücü ve istihdam koşullarına ilişkin bazı temel özelliklerin **zamanda donmuş** gibi göründüğünü ve sektörün hâlâ değişimi beklediğini vurgulamıştır. Düşük ücret, güvencesizlik, uzun çalışma saatleri ve düşük mesleki itibar gibi sorunlar, sektörün tüm büyümesine karşın kalıcılığını korumaktadır. Baum, Kralj, Robinson ve Solnet (2016), turizm işgücü araştırmalarını sınıflandırdıkları çalışmalarında bu alanın bireysel, örgütsel, sektörel ve toplumsal düzeylerde ele alınması gerektiğini vurgulamıştır.
+Tom Baum (2007), turizmde insan kaynaklarına ilişkin yirmi yıllık literatürü değerlendirdiği çalışmasında, işgücü ve istihdam koşullarına ilişkin bazı temel özelliklerin **zamanda donmuş** gibi göründüğünü ve sektörün hâlâ değişimi beklediğini vurgulamıştır. Düşük ücret, güvencesizlik, uzun çalışma saatleri ve düşük mesleki itibar gibi sorunlar, sektörün tüm büyümesine karşın kalıcılığını korumaktadır. Baum, Kralj, Robinson ve Solnet (2016) ise turizm işgücü araştırmalarını kapsamlı biçimde derleyerek bir sınıflandırma ve gelecek araştırma gündemi önermiştir.
 
 ---
 

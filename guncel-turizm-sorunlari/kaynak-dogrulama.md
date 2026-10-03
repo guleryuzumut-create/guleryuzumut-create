@@ -152,7 +152,7 @@ Durum: ✅ doğrulandı · ⚠️ kısmen doğrulandı, son teyit gerekli
 | Kaynak | DOI / erişim | Durum | Not |
 |---|---|---|---|
 | Baum (2007) | 10.1016/j.tourman.2007.04.005 | ✅ | 28(6), 1383–1399. 2015'te "reprise" makalesi yayımlanmış. |
-| Baum, Kralj, Robinson ve Solnet (2016) | 10.1016/j.annals.2016.04.003 | ⚠️ | 60, 1–22 teyit edildi. Metinde aktarılan "bireysel, örgütsel, sektörel, toplumsal düzeyler" sınıflandırması özgün metinle karşılaştırılmalı. |
+| Baum, Kralj, Robinson ve Solnet (2016) | 10.1016/j.annals.2016.04.003 | ✅ | 60, 1–22. Metinde yalnızca çalışmanın türü (derleme, sınıflandırma, gündem) aktarıldı. |
 | Erdoğan Mercan ve Eker (2025) | dergipark.org.tr | ⚠️ | 9(2), 15 çalışma, beş tema teyit edildi. Yayım yılı (2025) ve sayfa numaraları kontrol edilmeli. |
 | Günel (2009) | DEÜ İİBF Dergisi 10(2), 199–219 | ✅ | Bulguları metne aktarılmadı, yalnızca konusu belirtildi. |
 | Hochschild (1983) | Kitap | ✅ | University of California Press. |
