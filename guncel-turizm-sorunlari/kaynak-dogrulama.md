@@ -34,3 +34,32 @@ Durum: ✅ doğrulandı · ⚠️ kısmen doğrulandı, son teyit gerekli
 **Metinden çıkarılanlar:** 2025'te Venedik'te ücret ödeyen ziyaretçi sayısı (723 bin), gelir (5,4 milyon €) ve "ücretli günlerde günde 7 bin fazla ziyaretçi" iddiası yalnızca ikincil bir blogda bulunduğu için metne alınmadı.
 
 **Vaka çalışmasında kaynak bekleyenler:** 2025 talebini etkileyen etkenler listesindeki "mevsim kayması" ve "bölgesel savaşlar" basında TÜİK açıklamasıyla birlikte yer aldı. "Pahalı destinasyon algısı" sektörde yaygın bir tartışmadır. Bunlar için birincil bir kaynak (sektör birliği raporu ya da akademik çalışma) eklenmesi önerilir.
+
+## 2. Bölüm
+
+1. bölümde doğrulanan kaynaklar (Butler, Doxey, Milano vd. 2019a) burada tekrar edilmemiştir.
+
+| Kaynak | DOI / erişim | Durum | Not |
+|---|---|---|---|
+| Capocchi vd. (2019) | 10.3390/su11123303 | ✅ | 11(12), 3303. |
+| Eren ve Bozkurt (2020) | 10.21325/jotags.2020.753 | ✅ | 8(4), 3090–3107. Metinde yalnızca okuma önerisi olarak verildi, bulguları aktarılmadı. |
+| Koens, Postma ve Papp (2018) | 10.3390/su10124384 | ✅ | 10(12), 4384. 13 kent, 80 paydaş. |
+| Milano, Novelli ve Cheer (2019b) | 10.1080/09669582.2019.1650054 | ✅ | 27(12), 1857–1875. |
+| O'Reilly (1986) | 10.1016/0261-5177(86)90035-X | ✅ | 7(4), 254–258. |
+| Peeters vd. (2018) | europarl.europa.eu | ✅ | 15 yazarlı liste teyit edildi. ⚠️ Tanımın birebir ifadesi ve sayfa numarası rapordan kontrol edilmeli. |
+| Seraphin, Sheeran ve Pilato (2018) | 10.1016/j.jdmm.2018.01.011 | ✅ | 9, 374–376. |
+| Stankey vd. (1985) | USDA GTR INT-176 | ✅ | 5 yazar, 37 s. ⚠️ Dokuz adımın ifadeleri özgün metinle karşılaştırılmalı. |
+| UNWTO (2018) | 10.18111/9789284419999 | ✅ | 8 kent, 11 strateji, 68 önlem. ⚠️ Tanımın birebir ifadesi rapordan kontrol edilmeli. |
+| WTO (1981) | Rapor, Madrid | ⚠️ | Başlık ve tanım ikincil kaynaklardan teyit edildi. Birincil metin görülemedi. |
+| 7174 sayılı Kanun (2019) | Resmî Gazete 30791 | ✅ | Kabul 23.05.2019, yayım 01.06.2019. |
+| SHGM slot talimatı | shgm.gov.tr | ⚠️ | Aynı anda 105 / 65 balon (önceki 100 / 50) basın aracılığıyla teyit edildi. Talimatın güncel revizyon numarası ve tarihi PDF'ten kontrol edilmeli. |
+| Kapadokya Haber (2026), KTB verileri | kapadokyahaber.com.tr | ⚠️ | Rakamlar birden çok haber sitesinde aynı. Bakanlığın birincil bülteni eklenirse daha iyi olur. Haberin günü belirsiz. |
+| Atabey (2024) | ResearchGate | ⚠️ | Hakemli yayın değil. Yaz nüfusu tahminleri (1,5–2 milyon) bu nedenle metinde "birkaç katı" diye yumuşatıldı. |
+| Diken (2024) | diken.com.tr | ✅ | Ağustos 2024; Mumcular Barajı ölü hacim, 16–20 saatlik kesintiler. Haberin günü eklenmeli. |
+| CNN (t.y.), Maya Koyu | cnn.com | ✅ | 2018 kapanış, 1 Ocak 2022 açılış, 375 kişi/zaman dilimi, ağustos–eylül kapanışı. |
+| Euronews (2024), Amsterdam kruvaziyer | euronews.com | ✅ | 2026'dan itibaren yılda 100 gemi, terminal 2035'e kadar taşınacak. |
+| Euronews (2025), Amsterdam dava | euronews.com | ✅ | 20 milyon sınır (2021), 22,9 milyon (2024), dava 22.09.2025, 12 örgüt. |
+| Euronews (2026), GSTC (t.y.), Dubrovnik | euronews.com, gstc.org | ✅ | 2 gemi, ~4.000 yolcu, en az 8 saat; UNESCO 8.000 önerisi. |
+| Lonely Planet (2023) | lonelyplanet.com | ⚠️ | %7 → %12,5 teyit edildi. Yayım tarihi kontrol edilmeli. |
+
+**Metinden çıkarılanlar:** Kapadokya'daki firma ve balon sayısı (25 firma, 239 balon) ile yıllık uçuş sayısı yalnızca arama özetinde göründüğü ve kaynağı belirsiz olduğu için metne alınmadı.

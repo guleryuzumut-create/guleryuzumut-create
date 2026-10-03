@@ -18,3 +18,22 @@
 **11. (Örnek cevap)** Tanımın üç öğesi: (1) nesnel durum, örneğin yaz aylarında bir kıyı kasabasının nüfusunun beş katına çıkması; (2) öznel değerlendirme, örneğin kirada oturan yerel halkın bu durumu kira artışı nedeniyle olumsuz görmesi; (3) eylem çağrısı, örneğin belediyeden kısa dönem kiralamaların düzenlenmesinin talep edilmesi.
 
 **12. (Örnek cevap)** Giriş ücreti, talebi fiyat yoluyla yönetmeyi amaçlayan bir çözümdür ve uygulayıcısı yerel yönetimdir. Ancak ücret, uzak mesafeden gelen ziyaretçinin toplam seyahat maliyetinin yanında çok düşük kaldığı için talebi caydırmakta etkisiz olabilir. Olası yan etkiler: (a) uygulamanın talep yönetiminden çok bir gelir aracına dönüşmesi; (b) kentin "girişi ücretli bir tema parkı" gibi algılanması ve kamusal alanın metalaşması. Ek yan etkiler de kabul edilebilir: denetim maliyeti, muafiyetlerin karmaşıklığı, yoğunluğun ücretsiz günlere kayması.
+
+## 2. Bölüm
+
+| Soru | Cevap | Açıklama |
+|---|---|---|
+| 1 | b | UNWTO (2018) tanımı algılanan yaşam kalitesi ve ziyaretçi deneyimine odaklanır. |
+| 2 | c | Aşırı turizm çoğunlukla yerel ve zamansal olarak yoğunlaşmış bir sorundur. |
+| 3 | d | Ziyaretçinin kalabalığa katlanma düzeyi algısal (psikolojik) kapasitedir. |
+| 4 | b | Su kaynakları altyapı kapasitesinin konusudur. |
+| 5 | c | LAC, ABD Orman Hizmetleri tarafından korunan doğal alanlar için geliştirilmiştir. |
+| 6 | b | LAC, "kaç kişi?" yerine "hangi değişim kabul edilebilir?" sorusunu sorar. |
+| 7 | b | Aynı anda en fazla iki gemi, günde yaklaşık 4.000 yolcu. |
+| 8 | b | Pazarlamama (demarketing). |
+| 9 | b | 2021'de konan 20 milyon geceleme sınırı 2022–2024'te aşılmıştır. |
+| 10 | c | Sınır SHGM tarafından uçuş güvenliği gerekçesiyle konmuştur. |
+
+**11. (Örnek cevap)** Eleştiriler: (1) tek bir doğru sayı yoktur, kapasite yönetim kararlarına göre değişir; (2) "kabul edilemez" bozulma bir değer yargısıdır; (3) sayıya odaklanmak ziyaretçi davranışını ihmal eder. LAC bu eleştirilere şöyle yanıt verir: sabit bir sayı yerine göstergeler ve kabul edilebilir sınırlar belirler (1, 3); bu sınırları paydaşlarla birlikte saptar (2); sürekli izleme ve uyarlamaya dayanır (1).
+
+**12. (Örnek cevap)** Mekânsal yoğunlaşma: İstanbul'a gelen ziyaretçilerin büyük kısmının Sultanahmet çevresinde toplanması. Önerilen araç: farklı semtleri kapsayan alternatif rotalar ve tanıtım. Zamansal yoğunlaşma: Kapadokya'da gün doğumunda fotoğraf noktalarında yaşanan kalabalık ya da Göreme Açık Hava Müzesi'nde öğle saatlerindeki yoğunluk. Önerilen araç: zaman dilimli rezervasyonlu giriş ya da yoğun saatlerde farklı fiyat.
