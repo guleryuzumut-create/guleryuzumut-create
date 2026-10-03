@@ -75,3 +75,22 @@
 **11. (Örnek cevap)** Doğrudan kullanım, tesiste musluktan, duştan ve sulamadan doğrudan tüketilen sudur: duş ve banyo, havuz ve bahçe sulaması. Dolaylı kullanım, tesisin kullandığı ürün ve hizmetlerin üretiminde harcanan sudur: restoranda sunulan yiyeceklerin yetiştirilmesi, tesisin kullandığı elektriğin üretilmesi.
 
 **12. (Örnek cevap)** Nedenler: misafirlerin ödediklerinin karşılığını almak için fazla yemek alması; büfelerin kapanışa kadar dolu tutulması; hijyen kuralları nedeniyle büfede bekleyen yemeğin yeniden kullanılamaması. Öneriler: küçük tabak kullanımı; yoğunluk verilerine göre üretim planlaması ve büfenin son saatlerde küçültülmesi; israfın ölçülmesi ve misafirlere yönelik bilgilendirme. Artan güvenli gıdanın bağışlanması da kabul edilebilir.
+
+## 5. Bölüm
+
+| Soru | Cevap | Açıklama |
+|---|---|---|
+| 1 | b | Sosyal değişim kuramı. |
+| 2 | d | İlişki geçici ve çoğunlukla yüzeyseldir. |
+| 3 | b | Greenwood, "Culture by the Pound". |
+| 4 | b | Ön sahne. |
+| 5 | c | Varoluşsal otantiklik. |
+| 6 | c | Beliren otantiklik (Cohen, 1988). |
+| 7 | d | Sosyal öğrenme. |
+| 8 | c | Olumlu genel tutum, maliyetlerin farkındalığı. |
+| 9 | c | Tarihi Çarşı. |
+| 10 | d | 2023. |
+
+**11. (Örnek cevap)** Olumsuz: ritüellerin anlamını yitirmesi; kültürel ürünlerin standartlaşması ve seri üretim hediyelik eşyaya dönüşmesi. Olumlu: unutulan zanaatların canlanması; zanaatkârlara gelir sağlanması. Koşullar: topluluğun kültürünün nasıl sunulacağı üzerinde kontrol sahibi olması, gelirin topluluk içinde adil paylaşılması ve kutsal ya da mahrem kabul edilen öğelerin turizme açılıp açılmayacağına topluluğun karar vermesi.
+
+**12. (Örnek cevap)** Sahnelenmiş otantiklik, turistlerin "gerçek" yerel yaşam olarak gördüğü deneyimin aslında turistler için düzenlenmiş bir ön sahne olmasıdır (MacCannell, 1973). Örnek: tur programlarında yer alan, turist gruplarının belirli saatlerde ziyaret ettiği "geleneksel köy evinde gözleme ve ev yemeği" deneyimleri ya da otellerde düzenlenen "Türk gecesi" gösterileri.

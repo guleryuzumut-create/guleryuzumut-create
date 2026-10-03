@@ -106,3 +106,24 @@ Durum: ✅ doğrulandı · ⚠️ kısmen doğrulandı, son teyit gerekli
 | İztuzu (1987–1988) | — | ⚠️ | 1.800 yataklı otel projesi, Eylül 1987'de durdurulma ve 1988'de koruma kararı ikincil kaynaklardan (Wikipedia) teyit edildi. Metinde atıfsız duruyor. Birincil bir kaynak (ÖÇKB kararı, akademik çalışma ya da DEKAMER yayını) eklenmeli. |
 
 **Metinden çıkarılanlar:** Boracay'ın yeniden açılışında getirilen faaliyet yasaklarına (alkol, sigara, parti) ilişkin ayrıntılar doğrulanamadığı için metne alınmadı.
+
+## 5. Bölüm
+
+Önceki bölümlerde doğrulanan kaynaklar (Ap, Butler, Doxey, Sharpley) burada tekrar edilmemiştir.
+
+| Kaynak | DOI / erişim | Durum | Not |
+|---|---|---|---|
+| Alpan ve Danışık (2024) | dergipark.org.tr | ✅ | Karesi Journal of Architecture 3(2), 168–197. Bulgular (nedenler ve sonuçlar sınıflandırması) teyit edildi. DOI varsa eklenmeli. |
+| Altay ve Aydın (2020) | 10.17211/tcd.714040 | ✅ | Türk Coğrafya Dergisi 75, 81–94. 477 katılımcı; olumlu ve olumsuz algılar teyit edildi. |
+| Cohen (1988) | 10.1016/0160-7383(88)90028-X | ✅ | 15(3), 371–386; "beliren otantiklik". |
+| Fisher (2004) | 10.1016/j.annals.2004.01.001 | ✅ | 31(2), 428–446; dört biçim. |
+| Greenwood (1989) | Kitap bölümü | ⚠️ | Bölümün varlığı ve Alarde konusu teyit edildi. 2. baskıdaki sayfa aralığı (169–186) tam teyit edilemedi. Kutu 5.1'deki iki ayrıntı özgün metinle karşılaştırılmalı: yerel yönetimin festivali tekrarlama kararı ve Greenwood'un sonraki yeniden değerlendirmesi. |
+| MacCannell (1973) | 10.1086/225585 | ✅ | 79(3), 589–603. |
+| Nunkoo, Smith ve Ramkissoon (2013) | 10.1080/09669582.2012.673621 | ✅ | 21(1), 5–25; 140 makale; kuram sıralaması teyit edildi. |
+| Sevgi (2024) | 10.31198/idealkent.1476375 | ⚠️ | İDEALKENT 16(45); Çarşı'da yoğunlaşma, Bağlar ve Kıranköy'ün az ilgi görmesi teyit edildi. Sayfa numaraları eklenmeli. |
+| Smith (1989) | Kitap | ✅ | Hosts and Guests, 2. baskı, University of Pennsylvania Press. |
+| Wang (1999) | 10.1016/S0160-7383(98)00103-0 | ✅ | 26(2), 349–370. |
+| Anadolu Ajansı (2012) | aa.com.tr | ✅ | "Mavi Enerji Grubu", Bugarach, normalde 10 kişilik jandarma ekibi, takviye kuvvetler. |
+| Hürriyet Daily News (2023) | hurriyetdailynews.com | ✅ | Şirince, UNWTO En İyi Turizm Köyleri 2023 (260 başvurudan seçilen 54 köy). |
+| Şirince'nin adının değişmesi (1926) | — | ⚠️ | Yalnızca yerel gezi siteleri ve haberlerde geçiyor. Metinde "yerel anlatılara göre" ifadesiyle verildi, akademik bir kaynakla desteklenmeli. |
+| Safranbolu ziyaretçi sayıları | — | ⚠️ | Kaynaklar 2024 için toplam 2,6 milyon ile ~3 milyon, konaklayan için 236 bin ile 400 bin arasında farklı rakamlar veriyor. Bu yüzden metne sayı yazılmadı, "milyonlarca, büyük kısmı günübirlik" denildi. |
