@@ -63,3 +63,27 @@ Durum: ✅ doğrulandı · ⚠️ kısmen doğrulandı, son teyit gerekli
 | Lonely Planet (2023) | lonelyplanet.com | ⚠️ | %7 → %12,5 teyit edildi. Yayım tarihi kontrol edilmeli. |
 
 **Metinden çıkarılanlar:** Kapadokya'daki firma ve balon sayısı (25 firma, 239 balon) ile yıllık uçuş sayısı yalnızca arama özetinde göründüğü ve kaynağı belirsiz olduğu için metne alınmadı.
+
+## 3. Bölüm
+
+Önceki bölümlerde doğrulanan kaynaklar (Leiper, Lenzen vd., Scott vd. 2019) burada tekrar edilmemiştir.
+
+| Kaynak | DOI / erişim | Durum | Not |
+|---|---|---|---|
+| François vd. (2023) | 10.1038/s41558-023-01759-5 | ⚠️ | 13(9), 935–942 teyit edildi. Bulgular teyit edildi: 2.234 merkez, 28 ülke, 2 °C'de %53, %50 yapay karla %27. Yazar listesinin tamamı yayıncı sayfasından eklenmeli (ilk üç yazar teyit edildi). |
+| Gössling, Balas, Mayer ve Sun (2023) | 10.1016/j.tourman.2022.104681 | ✅ | 95, 104681. |
+| Gössling ve Peeters (2015) | 10.1080/09669582.2015.1008500 | ✅ | 23(5), 639–659. |
+| Lemelin vd. (2010) | 10.1080/13683500903406367 | ✅ | 13(5), 477–493. |
+| Matei vd. (2023), JRC131508 | publications.jrc.ec.europa.eu | ⚠️ | Rapor ve bulgular teyit edildi (kuzey–güney ayrımı, 4 °C'de +%1,58). Beşinci yazarın adının yazımı ("Batista e Silva") kontrol edilmeli. |
+| Scott, Gössling ve Hall (2012) | 10.1002/wcc.165 | ✅ | 3(3), 213–232. |
+| UNWTO, UNEP ve WMO (2008) | 10.18111/9789284412341 | ✅ | %5 tahmini teyit edildi. |
+| UNWTO (2021), Glasgow Deklarasyonu | untourism.int | ✅ | 4 Kasım 2021; 2030'a kadar yarıya, en geç 2050 net sıfır; 5 yol; 12 ay içinde plan. |
+| İklim Kanunu (2025) | Resmî Gazete 32951 | ✅ | TBMM kabul 02.07.2025, yayım 09.07.2025. |
+| TGA (2022), Genelge 2022/2 | tga.net.tr | ⚠️ | 1. aşama 31.12.2023 ve sertifika 31.12.2030 teyit edildi. 2. aşama için kaynaklar 31.12.2025 ve 31.12.2027 diye farklı tarihler veriyor. Bu yüzden metinde tarih verilmedi, güncel genelgeden kontrol edilmeli. |
+| Karar (2025) | karar.com | ⚠️ | "2.500'ü aşkın sertifikalı tesis". Haberin tarihi ve sayının birincil kaynağı (TGA) kontrol edilmeli. |
+| MGM (2026) | mgm.gov.tr | ⚠️ | 50,5 °C (Silopi, 25.07.2025) ve önceki rekor 49,5 °C (Sarıcakaya, 15.08.2023) basın ve MGM sayfaları üzerinden teyit edildi. MGM'nin 2025 iklim değerlendirmesinin doğrudan bağlantısı eklenmeli. |
+| Anadolu Ajansı (2025), Manavgat | aa.com.tr | ✅ | 28.07.2021, 6 can kaybı, ~60 bin ha orman. |
+| Turizm Güncel (2021), Turizm Gazetesi (2021) | turizmguncel.com, turizmgazetesi.com | ✅ | Bodrum'da denizden tahliye, Marmaris'te otellerin boşaltılması. Haberlerin günleri eklenmeli. |
+| Al Jazeera (2025), Akropolis | aljazeera.com | ✅ | 2023, 2024 ve 2025'te öğle saatlerinde kapatma. |
+
+**Metinden çıkarılanlar:** 2021'de Türkiye genelinde yanan toplam alan (~150 bin ha) ve Bodrum'da tahliye edilen kişi sayısı (~3.000–4.500) kaynaklar arasında tutarsız olduğu için metne alınmadı. Havacılığın turizm emisyonlarındaki payı için yaygın olarak alıntılanan %40 oranı da birincil kaynakta doğrulanamadığından metne alınmadı.
